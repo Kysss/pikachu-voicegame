@@ -6,10 +6,10 @@ Program currently only contains the basic game loop (no score tracking, no greet
 
 # Execution
 Installation of Python frameworks `cocos2d` and `pyAudio` is needed prior to running the program: </br>
->pip install cocos2d  </br>
->pip install pyaudio </br>
+`pip install cocos2d`  </br>
+`pip install pyaudio` </br>
 To execute this mini game, use command: </br>
-> python game.py
+` python game.py`
 
 # Reference/Tutorial
 https://zhuanlan.zhihu.com/p/25499306 </br>
