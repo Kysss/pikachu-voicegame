@@ -1,6 +1,8 @@
 # pikachu-voicegame
-# Description
 This is a mini Python program made for fun and for dipping toes into the language.
+This program utilizes cocos2d and pyaudio frameworks. 
+Use the volume of your voice to control the movement of the Pikachu object
+Program currently only contains the basic game loop (no score tracking, no greeting screen, etc)
 
 # Execution
 Installation to Python frameworks cocos2d and pyAudio is needed prior to running the program
