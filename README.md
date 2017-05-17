@@ -12,4 +12,5 @@ To execute this mini game, use command: </br>
 `python game.py`
 
 # Reference/Tutorial
-https://zhuanlan.zhihu.com/p/25499306
+https://zhuanlan.zhihu.com/p/25499306 </br>
+https://docs.python.org/3/tutorial/classes.html
