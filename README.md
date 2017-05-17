@@ -10,6 +10,7 @@ Installation to Python frameworks cocos2d and pyAudio is needed prior to running
 'pip install pyaudio'
 To execute this mini game, use command
 'python game.py'
+`git commit -am 'Add some feature'`
 
 # Reference/Tutorial
 https://zhuanlan.zhihu.com/p/25499306
