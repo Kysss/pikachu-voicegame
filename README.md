@@ -16,4 +16,5 @@ To execute this mini game, use command: </br>
 https://zhuanlan.zhihu.com/p/25499306 </br>
 https://docs.python.org/3/tutorial/classes.html
 
-# <img src="voice-game.gif" alt="demo" width="430" height="260">
+# :bowtie::bowtie::bowtie:
+<img src="voice-game.gif" alt="demo" width="430" height="260">
